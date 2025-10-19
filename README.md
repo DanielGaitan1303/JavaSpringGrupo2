@@ -1,6 +1,6 @@
 ## Punto 3
 
-El punto 3 consiste en tener dos estrategias de descuento Premium y basica, donde necesitamos que el contenedor de inversion de control 
+Consiste en tener dos estrategias de descuento Premium y basica, donde necesitamos que el contenedor de inversion de control 
 sepa cual estrategia usar gracias a la notacion primary, Qualifier y autowired que le permiten especificar cual bean usar. 
 
 ## Primary
